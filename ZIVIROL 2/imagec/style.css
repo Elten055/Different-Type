@@ -1,0 +1,75 @@
+
+body{
+    background-color: rgb(227, 231, 170);
+    /* max-width: 60%;
+    padding: 20px; */
+}
+tbody, td, tr{
+    background-color: rgba(53, 196, 177, 0.452);
+    font-size: auto;
+}
+table{
+    padding-left: 50px;
+    font-size: 20px;
+}
+thead, th{
+    background-color: black;
+    color: rgb(158, 26, 26);
+    font-size: auto;
+}
+
+.custom{
+display: flex;
+}
+.custom img{
+    padding: 2cm;
+}
+p{
+    text-align: center;
+}
+.all{
+    /* width: 1000px; */
+    /* padding-left: 3cm; */
+    text-align: center;
+    padding: 15px;
+    max-width: 70%;
+    margin: 0 auto;
+    background-color: rgb(226, 196, 135);
+    font-size: 20px;
+
+ 
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+header{
+    /* background-color: rgb(114, 113, 113) ;
+    text-align: center; */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(98, 96, 96);
+
+}
+ul{
+    text-align: left;
+   
+}
+h2 {
+
+    background-color:rgb(98, 96, 96); ;
+}
+
+.ul{
+
+    background-color: blue;
+}
+
+
+
+
+
